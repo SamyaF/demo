@@ -1,6 +1,6 @@
 {
   "otptest": [
-    {
+     {
       "id" : 1,
       "username":"samya",
       "otp": "1234"
