@@ -1,11 +1,13 @@
 {
-  "posts": [
+  "otptest": [
     {
-      "id": 1,
-      "title": "hello"
+      "username": "samya",
+      "otp": "1234"
+    },
+    {
+      "username": "fajer",
+      "otp": "4321"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
+
 }
