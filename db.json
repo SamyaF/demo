@@ -1,4 +1,11 @@
-{ 
-    "arr":[{ "username": "samya", "otp": "1234" },
-    { "username":"fajer" , "otp": "4321" }]
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
