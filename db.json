@@ -1,4 +1,4 @@
 { 
-    { "username": "samya", "otp": "1234" },
-    { "username":"fajer" , "otp": "4321" }
+    arr:[{ "username": "samya", "otp": "1234" },
+    { "username":"fajer" , "otp": "4321" }]
 }
